@@ -5,9 +5,9 @@ Mental health is one of the Key things impacting people around the world, so hap
 
 Below are the steps performed :
 
-Data Collection from research team
-Data Cleansing
-Data exploration and EDA using matplotlib and seaborn 
-Conducted statistical testing and tested hypothesis  using t-test and chi-square
-Trained a machine learning model to predicted total depression score of a university student as a regression problem
-Trained a separate machine learning model to predict suicide ideation as a classification problem
+-Data Collection from research team
+-Data Cleansing
+-Data exploration and EDA using matplotlib and seaborn 
+-Conducted statistical testing and tested hypothesis  using t-test and chi-square
+-Trained a machine learning model to predicted total depression score of a university student as a regression problem
+-Trained a separate machine learning model to predict suicide ideation as a classification problem
